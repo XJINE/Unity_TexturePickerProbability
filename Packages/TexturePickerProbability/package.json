@@ -1,0 +1,12 @@
+{
+  "name": "xjine.texturepickerprobability",
+  "displayName": "Texture Picker Probability",
+  "version": "1.0.0",
+  "author": {
+    "name": "XJINE"
+  },
+  "type": "library",
+  "hideInEditor": false,
+  "description": "TexturePickerProbability regards TextureData.meta.x as probability and pick a texture with considering it.",
+  "dependencies": {}
+}
